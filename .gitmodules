@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/hrecht/censusapi
-	shallow = true
-	registered = true
